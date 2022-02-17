@@ -25,3 +25,4 @@ class RecyclerAdapter(val context: Context) : RecyclerView.Adapter<RecyclerAdapt
         val tvMovieName: TextView = itemView!!.findViewById(R.id.title)
     }
 }
+                                         
